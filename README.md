@@ -1,1 +1,1 @@
-# testGit
+This is just a test file.
